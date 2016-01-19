@@ -1,0 +1,5 @@
+E:\users\geoffrey\SharePointDemo\SharePointDemo\obj\Debug\SharePointDemo.csprojResolveAssemblyReference.cache
+E:\users\geoffrey\SharePointDemo\SharePointDemo\bin\Debug\SharePointDemo.dll
+E:\users\geoffrey\SharePointDemo\SharePointDemo\bin\Debug\SharePointDemo.pdb
+E:\users\geoffrey\SharePointDemo\SharePointDemo\obj\Debug\SharePointDemo.dll
+E:\users\geoffrey\SharePointDemo\SharePointDemo\obj\Debug\SharePointDemo.pdb

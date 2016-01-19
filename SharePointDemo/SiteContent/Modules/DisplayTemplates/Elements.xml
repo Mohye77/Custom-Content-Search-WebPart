@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="DisplayTemplates" Url="_catalogs/masterpage/Display Templates/Content Web Parts" RootWebOnly="TRUE">
+    
+    <File Path="DisplayTemplates\Demo_Item_Picture3Lines.html" 
+          Url="Demo_Item_Picture3Lines.html"  
+          Type="GhostableInLibrary" 
+          ReplaceContent="True" 
+          Level="Draft" />
+    
+    <File Path="DisplayTemplates\Demo_Control_List.html" 
+          Url="Demo_Control_List.html"  
+          Type="GhostableInLibrary" 
+          ReplaceContent="True" 
+          Level="Draft" />
+
+    <File Path="DisplayTemplates\Demo_Item_Picture3Lines.js" 
+          Url="Demo_Item_Picture3Lines.js"  
+          Type="GhostableInLibrary" 
+          Level="Draft" 
+          ReplaceContent="true">
+      <Property Name="ContentType" Value="Display Template Code" />
+    </File>
+
+    <File Path="DisplayTemplates\Demo_Control_List.js" 
+          Url="Demo_Control_List.js" 
+          Type="GhostableInLibrary" 
+          Level="Draft" 
+          ReplaceContent="true">
+      <Property Name="ContentType" Value="Display Template Code" />
+    </File>
+    
+  </Module>
+</Elements>

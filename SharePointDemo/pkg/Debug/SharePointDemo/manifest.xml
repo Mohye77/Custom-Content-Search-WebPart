@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e645aed3-8012-4ad2-b608-c0785beb750e" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SharePointDemo.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SharePointDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c3a5c8535ced2356" Namespace="SharePointDemo.CustomContentSearchWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="Resources\SharePointDemo.resx" />
+    <RootFile Location="Resources\SharePointDemo.fr-FR.resx" />
+  </RootFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePointDemo_SharePointDemoFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SharePointDemo Feature" Id="7fd71c5f-e692-4e26-a1c1-11d3b72ced52" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="CustomContentSearchWebPart\Elements.xml" />
+    <ElementFile Location="CustomContentSearchWebPart\CustomContentSearchWebPart.webpart" />
+    <ElementManifest Location="DisplayTemplates\Elements.xml" />
+    <ElementFile Location="DisplayTemplates\Demo_Item_Picture3Lines.html" />
+    <ElementFile Location="DisplayTemplates\Demo_Control_List.html" />
+    <ElementFile Location="DisplayTemplates\Demo_Item_Picture3Lines.js" />
+    <ElementFile Location="DisplayTemplates\Demo_Control_List.js" />
+  </ElementManifests>
+</Feature>
